@@ -1,0 +1,20 @@
+"GameMode"
+{
+	"name"		"CS Weapons"
+	"version"		"1"
+	"base"		"fretta13"
+	"title"		"CS Weapons"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"author_name"	"Jared Ballou"
+	"author_email"	"gmod@jballou.com"
+	"author_url"	"http://jballou.com"
+	
+	"icon"		""
+	"info"		"New test mode"
+	"hide"		"0"
+
+	"selectable"	"1"
+	"description"	"CS Weapons"
+}
